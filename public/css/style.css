@@ -34044,9 +34044,9 @@ form.dark-form ::-ms-input-placeholder {
     padding-top: 7.5px;
     padding-bottom: 7.5px;
   }
-
+	/* real color : e53935 */
   #fixed-header-dark {
-    background-color: #e53935;
+    background-color: #333;
   }
 
   /* Margin Bottom */
